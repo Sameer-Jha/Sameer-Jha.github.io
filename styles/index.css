@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.hero, .content, .features, .contact{
+     height: 100vh; 
+}
+
