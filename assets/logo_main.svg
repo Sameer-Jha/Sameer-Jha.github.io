@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo_main.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect933"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="4.2"
+       miter_limit="4"
+       attempt_force_join="true"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       update_on_knot_move="true"
+       attempt_force_join="true"
+       miter_limit="4"
+       offset="4.2"
+       unit="mm"
+       linejoin_type="miter"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect854"
+       effect="offset" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1042"
+     inkscape:window-width="1920"
+     inkscape:snap-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="554.6998"
+     inkscape:cx="-68.594821"
+     inkscape:zoom="0.70710678"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <ellipse
+       ry="78.617188"
+       rx="79.081787"
+       cy="148.5"
+       cx="111.49924"
+       id="path12"
+       style="fill:#ff8963;fill-opacity:1;stroke-width:0.232124" />
+    <circle
+       ry="67.947769"
+       rx="68.349319"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#1a202c;stroke-width:9.09903;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle837"
+       cx="105"
+       cy="148.5" />
+    <path
+       d="M 179.51817,148.5 A 68.018936,67.619331 0 0 1 111.49924,216.11933 68.018936,67.619331 0 0 1 43.480301,148.5 68.018936,67.619331 0 0 1 111.49924,80.880669 68.018936,67.619331 0 0 1 179.51817,148.5"
+       style="opacity:0.999;fill:none;fill-opacity:1;stroke:#1a202c;stroke-width:12.4131;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse870" />
+    <g
+       aria-label="SJ"
+       transform="matrix(1.068477,0,0,0.93591159,-238.47516,-16.527064)"
+       id="g996"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;line-height:1.25;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a202c;fill-opacity:1;stroke:none;stroke-width:4.52298" />
+    <g
+       aria-label="SJ"
+       transform="scale(1.068477,0.93591159)"
+       id="g1006"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;line-height:1.25;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8963;fill-opacity:1;stroke:#ff8963;stroke-width:12.72299995;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         d="m 100.22565,94.21726 v 17.40314 q -10.159198,-4.85874 -19.169961,-7.24395 -9.010764,-2.3852 -17.403142,-2.3852 -14.576235,0 -22.526909,5.65381 -7.862332,5.65382 -7.862332,16.07803 0,8.74574 5.212108,13.25113 5.300449,4.41704 19.965025,7.1556 l 10.77758,2.20852 q 19.965025,3.79866 29.417493,13.42781 9.540808,9.54081 9.540808,25.61884 0,19.16995 -12.89776,29.06412 -12.809418,9.89418 -37.633188,9.89418 -9.364127,0 -19.965026,-2.12018 -10.512557,-2.12018 -21.820182,-6.2722 v -18.37489 q 10.865921,6.09551 21.290138,9.18744 10.424216,3.09193 20.49507,3.09193 15.282961,0 23.586998,-6.00717 8.304037,-6.00718 8.304037,-17.13812 0,-9.71749 -6.007176,-15.19462 -5.918834,-5.47713 -19.52332,-8.2157 L 53.13999,161.1796 q -19.965025,-3.97534 -28.887448,-12.45605 -8.922423,-8.48072 -8.922423,-23.587 0,-17.49149 12.279374,-27.562339 12.367715,-10.070853 34.011215,-10.070853 9.275786,0 18.904936,1.678475 9.629149,1.678476 19.700006,5.035427 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:12.72299995;fill:#ff8963;fill-opacity:1;stroke:#ff8963;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1002" />
+      <path
+         d="m 136.00368,89.88856 h 17.84484 v 122.7054 q 0,23.85202 -9.0991,34.6296 -9.01077,10.77758 -29.06413,10.77758 h -6.80224 V 242.9832 h 5.56547 q 11.83767,0 16.69641,-6.62556 4.85875,-6.62556 4.85875,-23.76368 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:12.72299995;fill:#ff8963;fill-opacity:1;stroke:#ff8963;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1004" />
+    </g>
+    <g
+       aria-label="SJ"
+       transform="matrix(1.068477,0,0,0.93591159,1.3513073,-2.6202352)"
+       id="g1019"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;line-height:1.25;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a202c;fill-opacity:1;stroke:none;stroke-width:4.52298">
+      <path
+         d="m 100.22565,94.21726 v 17.40314 q -10.159198,-4.85874 -19.169961,-7.24395 -9.010764,-2.3852 -17.403142,-2.3852 -14.576235,0 -22.526909,5.65381 -7.862332,5.65382 -7.862332,16.07803 0,8.74574 5.212108,13.25113 5.300449,4.41704 19.965025,7.1556 l 10.77758,2.20852 q 19.965025,3.79866 29.417493,13.42781 9.540808,9.54081 9.540808,25.61884 0,19.16995 -12.89776,29.06412 -12.809418,9.89418 -37.633188,9.89418 -9.364127,0 -19.965026,-2.12018 -10.512557,-2.12018 -21.820182,-6.2722 v -18.37489 q 10.865921,6.09551 21.290138,9.18744 10.424216,3.09193 20.49507,3.09193 15.282961,0 23.586998,-6.00717 8.304037,-6.00718 8.304037,-17.13812 0,-9.71749 -6.007176,-15.19462 -5.918834,-5.47713 -19.52332,-8.2157 L 53.13999,161.1796 q -19.965025,-3.97534 -28.887448,-12.45605 -8.922423,-8.48072 -8.922423,-23.587 0,-17.49149 12.279374,-27.562339 12.367715,-10.070853 34.011215,-10.070853 9.275786,0 18.904936,1.678475 9.629149,1.678476 19.700006,5.035427 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a202c;fill-opacity:1;stroke-width:4.52298"
+         id="path1015" />
+      <path
+         d="m 136.00368,89.88856 h 17.84484 v 122.7054 q 0,23.85202 -9.0991,34.6296 -9.01077,10.77758 -29.06413,10.77758 h -6.80224 V 242.9832 h 5.56547 q 11.83767,0 16.69641,-6.62556 4.85875,-6.62556 4.85875,-23.76368 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a202c;fill-opacity:1;stroke-width:4.52298"
+         id="path1017" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;line-height:1.25;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.52298"
+       id="text841"
+       transform="matrix(1.068477,0,0,0.93591159,5.2924106,-0.81791959)"
+       aria-label="SJ">
+      <path
+         id="path843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:4.52298"
+         d="m 100.22565,94.21726 v 17.40314 q -10.159198,-4.85874 -19.169961,-7.24395 -9.010764,-2.3852 -17.403142,-2.3852 -14.576235,0 -22.526909,5.65381 -7.862332,5.65382 -7.862332,16.07803 0,8.74574 5.212108,13.25113 5.300449,4.41704 19.965025,7.1556 l 10.77758,2.20852 q 19.965025,3.79866 29.417493,13.42781 9.540808,9.54081 9.540808,25.61884 0,19.16995 -12.89776,29.06412 -12.809418,9.89418 -37.633188,9.89418 -9.364127,0 -19.965026,-2.12018 -10.512557,-2.12018 -21.820182,-6.2722 v -18.37489 q 10.865921,6.09551 21.290138,9.18744 10.424216,3.09193 20.49507,3.09193 15.282961,0 23.586998,-6.00717 8.304037,-6.00718 8.304037,-17.13812 0,-9.71749 -6.007176,-15.19462 -5.918834,-5.47713 -19.52332,-8.2157 L 53.13999,161.1796 q -19.965025,-3.97534 -28.887448,-12.45605 -8.922423,-8.48072 -8.922423,-23.587 0,-17.49149 12.279374,-27.562339 12.367715,-10.070853 34.011215,-10.070853 9.275786,0 18.904936,1.678475 9.629149,1.678476 19.700006,5.035427 z" />
+      <path
+         id="path845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.922px;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:4.52298"
+         d="m 136.00368,89.88856 h 17.84484 v 122.7054 q 0,23.85202 -9.0991,34.6296 -9.01077,10.77758 -29.06413,10.77758 h -6.80224 V 242.9832 h 5.56547 q 11.83767,0 16.69641,-6.62556 4.85875,-6.62556 4.85875,-23.76368 z" />
+    </g>
+  </g>
+</svg>
