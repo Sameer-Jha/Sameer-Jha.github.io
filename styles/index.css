@@ -4,7 +4,22 @@ body{
 }
 
 
-.hero, .content, .features, .contact{
-     height: 100vh; 
+
+header{
+    position: sticky;
 }
 
+.hero, .content, .features {
+    min-height: 100vh; 
+}
+
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero .v-adjust{
+    transform: translateY(-10vh);
+}
