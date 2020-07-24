@@ -38,3 +38,21 @@ header{
 section .features, section .content{
     min-height: 100vh;
 }
+
+.namaewa{
+    display: inline-block;
+}
+
+#menu{
+    display: flex;
+}
+
+@media only screen 
+  and (min-device-width: 0px) 
+  and (max-device-width: 768px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    #menu{
+        display: none;
+    }
+}
