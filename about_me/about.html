@@ -177,7 +177,7 @@
 							</a>
 						</div>
 						<div class="col-lg-3 text-center p-0">
-							<a href="#" class="text-decoration-none">
+							<a href="./Sameer Jha Resume.pdf" class="text-decoration-none">
 								<span class="custom-nav-button text-color-dark">
 									<i class="icon-cloud-download icons text-color-primary"></i>
 									Download Resume
@@ -207,10 +207,6 @@
 											<li>
 												<span class="text-color-dark">Skype:</span>
 												<span class="custom-text-color-2"><a class="custom-text-color-2" href="#">Sameer Jha</a></span>
-											</li>
-											<li>
-												<span class="text-color-dark">PHONE:</span>
-												<span class="custom-text-color-2"><a class="custom-text-color-2" href="tel:+916464564646">+916464564646</a></span>
 											</li>
 											<li>
 												<span class="text-color-dark">EMAIL:</span>
@@ -263,7 +259,7 @@
 											</div>
 											<div class="experience-description col-lg-9 col-sm-7 bg-color-light">
 												<h4 class="text-color-dark font-weight-semibold">Cyber Security Research Intern</h4>
-												<p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
+												<p class="custom-text-color-2">Worked on a network analysis project to detect network packets with corrupt intents involving programming for high performance computing. The project is deployed on a super computer at the facility.</p>
 											</div>
 										</div>
 									</article>
@@ -285,8 +281,8 @@
 												</span>
 											</div>
 											<div class="experience-description col-lg-9 col-sm-7 bg-color-light">
-												<h4 class="text-color-dark font-weight-semibold">CyberSecurity Architecture Intern</h4>
-												<p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
+												<h4 class="text-color-dark font-oweight-semibold">CyberSecurity Architecture Intern</h4>
+												<p class="custom-text-color-2">Was responsible for maintenance of multitude of systems running 24*7 and installation of network hardware and configuration of firewalls for the same. As well as worked on SOC platform setup.</p>
 											</div>
 										</div>
 									</article>
@@ -659,23 +655,16 @@
 							<div class="row justify-content-end m-0">
 								<div class="col-half-section col-half-section-right mr-3">
 									<h2 class="text-color-quaternary text-uppercase font-weight-extra-bold">Say Hello</h2>
-									<form id="contactForm" class="contact-form custom-form-style" action="porto/7-1-0/php/contact-form.html" method="post">
-										<div class="contact-form-success alert alert-success d-none mt-4" id="contactSuccess">
-											<strong>Success!</strong> Your message has been sent to us.
-										</div>
-										<div class="contact-form-error alert alert-danger d-none mt-4" id="contactError">
-											<strong>Error!</strong> There was an error sending your message.
-											<span class="mail-error-message text-1 d-block" id="mailErrorMessage"></span>
-										</div>
+									<form id="contactForm" class="contact-form custom-form-style" method="post">
 										<div class="form-content">
 											<div class="form-control-custom">
-												<input type="text" class="form-control" name="name" placeholder="Your Name *" data-msg-required="This field is required." id="name" required="" />
+												<input type="text" class="form-control" name="Name" placeholder="Your Name *" data-msg-required="This field is required." id="name" required="" />
 											</div>
 											<div class="form-control-custom">
-												<input type="text" class="form-control" name="subject" placeholder="Subject *" data-msg-required="This field is required." id="subject" required="" />
+												<input type="email" class="form-control" name="Email" placeholder="Email *" data-msg-required="This field is required." id="email" required="" />
 											</div>
 											<div class="form-control-custom">
-												<textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" placeholder="Message*" id="message" required="" aria-required="true"></textarea>
+												<textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="Message" placeholder="Message*" id="message" required="" aria-required="true"></textarea>
 											</div>
 											<input type="submit" class="btn btn-quaternary text-color-light text-uppercase font-weight-semibold outline-none custom-btn-style-2 custom-border-radius-1" value="Submit" />
 										</div>
@@ -772,6 +761,26 @@
 			ga('send', 'pageview');
 		</script>
 		<script src="master/analytics/analytics.js"></script>
+		<script>
+			const scriptURL="https://script.google.com/macros/s/AKfycbyum7ODWaLPiDg8gC1spqdcMuFTC7ayzExIdcVidPvTEoIItOI/exec";
+			const form = document.forms['contactForm']
+		
+			const submissionMessage = (res) => {
+			  alert('Message sent successfully, you\'ll be contacted soon.. ')
+
+			  console.log('Success!')
+
+			  const msg =  document.getElementsByClassName('contact-form-success')
+			  msg.style.display="block";
+			}
+		
+		  form.addEventListener('submit', e => {
+			e.preventDefault()
+			fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+			  .then(response => submissionMessage(response))
+			  .catch(error => console.error('Error!', error.message))
+		  })
+		  </script>
 		<!-- <a href="porto/7-1-0/index.html" class="go-to-demos"><i class="fas fa-arrow-left"></i> More Demos</a> -->
 	</body>
 </html>
